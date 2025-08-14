@@ -3,10 +3,11 @@ package com.hilfritz.autocompletehistorytextview.view;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Rect;
-import android.support.v7.widget.AppCompatAutoCompleteTextView;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.widget.ArrayAdapter;
+
+import androidx.appcompat.widget.AppCompatAutoCompleteTextView;
 
 import com.hilfritz.autocompletehistorytextview.R;
 
