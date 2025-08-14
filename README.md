@@ -44,7 +44,7 @@ git clone https://github.com/hilfritz/AndroidAutoCompleteHistoryTextView.git
 
 
 ```xml
-<your.package.name.AutoCompleteHistoryTextView
+<com.hilfritz.autocompletehistorytextview.view.AutoCompleteHistoryTextView
     android:id="@+id/textInput"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
