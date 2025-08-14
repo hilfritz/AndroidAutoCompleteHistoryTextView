@@ -9,19 +9,20 @@ A custom `AppCompatAutoCompleteTextView` that **remembers user input history** a
 > No dependencies. Just copy and use! 💡
 
 📸 *Example: Auto-suggestions from previous inputs*  
-*(Add a screenshot later if you'd like!)*
+*(/docs/animation.gif)*
 
 ---
 
 ## 🚀 Features
 
-- ✅ Auto-suggestions from real user history
-- 💾 Persistent storage via `SharedPreferences`
-- 🔍 Auto-shows dropdown on focus
-- 🔄 Auto-refreshes suggestions
-- 🧹 Reset history anytime
-- 🧩 Uses View ID as unique key — supports multiple fields
-- 📱 AndroidX compatible (`AppCompatAutoCompleteTextView`)
+-  Auto-suggestions from real user history
+-  Customizable list items
+-  Persistent storage via `SharedPreferences`
+-  Auto-shows dropdown on focus
+-  Auto-refreshes suggestions
+-  Reset history anytime
+-  Uses View ID as unique key — supports multiple fields
+-  AndroidX compatible (`AppCompatAutoCompleteTextView`)
 
 ---
 
