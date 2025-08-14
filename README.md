@@ -32,4 +32,18 @@ A custom `AppCompatAutoCompleteTextView` that **remembers user input history** a
 
 Or clone the repo:
 ```bash
-git clone https://github.com/hilfritz/AndroidAutoCompleteHistoryTextView.git
+git clone https://github.com/hilfritz/AndroidAutoCompleteHistoryTextView.git 
+
+```
+
+## 🧩 Usage
+
+### 1. Add to Layout (XML)
+
+```xml
+<your.package.name.AutoCompleteHistoryTextView
+    android:id="@+id/textInput"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Type something..." />
+
