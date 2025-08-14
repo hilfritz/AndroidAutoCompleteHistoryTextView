@@ -9,7 +9,7 @@ A custom `AppCompatAutoCompleteTextView` that **remembers user input history** a
 > No dependencies. Just copy and use! 💡
 
 📸 *Example: Auto-suggestions from previous inputs*  
-*(image="/docs/animation.gif")*
+<img src="/docs/animated.gif" alt="Demo Animation" width="600">
 
 ---
 
